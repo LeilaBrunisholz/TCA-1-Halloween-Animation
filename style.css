@@ -6,7 +6,7 @@ body{
     justify-content: center;
     align-items: center;
     margin:0;
-    background-color: #424f6f;
+    background-color: #b51ad4;
 }
 
 #container{
@@ -14,7 +14,7 @@ width: 400px;
 height:400px;
 padding:0;
 box-sizing:border-box;
-background:#424f6f;
+background:#a116bd;
 }
 
 *:after,
@@ -34,7 +34,7 @@ background:#424f6f;
     margin: 50px auto 0;
     width: 180px;
     height: 220px;
-    background:#f2fbf1;
+    background:#55ca48;
     border-top-left-radius: 90px;
     border-top-right-radius: 90px;
 }
@@ -48,7 +48,7 @@ background:#424f6f;
     width:36px;
     height:36px;
     border-radius: 50%;
-    background:#f2fbf1;
+    background:#b7ffaf;
     animation: floaty .2s infinite;
 }
 
@@ -75,12 +75,12 @@ background:#424f6f;
     display: block;
     width:30px;
     height:30px;
-    background: #252c49;
+    background: #000000;
     border-radius:50%;
 }
 
 #spooky #body #mouth{
-    background: #252c49;
+    background: #000000;
     margin:25px auto 0;
     width: 60px;
     height: 30px;
@@ -111,7 +111,7 @@ background:#424f6f;
     content:'';
     width:36px;
     height:36px;
-    background:#f2fbf1;
+    background:#b7ffaf;
     border-radius:50%;
 }
 
@@ -141,3 +141,4 @@ background:#424f6f;
         transform: scale(0.8);
     }
 }
+
